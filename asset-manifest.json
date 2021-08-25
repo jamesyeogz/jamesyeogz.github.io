@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3ec664e1.chunk.css",
+    "main.js": "/static/js/main.c32235cd.chunk.js",
+    "main.js.map": "/static/js/main.c32235cd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.fb461355.js",
+    "runtime-main.js.map": "/static/js/runtime-main.fb461355.js.map",
+    "static/js/2.d6990297.chunk.js": "/static/js/2.d6990297.chunk.js",
+    "static/js/2.d6990297.chunk.js.map": "/static/js/2.d6990297.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.3ec664e1.chunk.css.map": "/static/css/main.3ec664e1.chunk.css.map",
+    "static/js/2.d6990297.chunk.js.LICENSE.txt": "/static/js/2.d6990297.chunk.js.LICENSE.txt",
+    "static/media/Comp_8.bd095892.mp4": "/static/media/Comp_8.bd095892.mp4",
+    "static/media/Nec.f3460923.png": "/static/media/Nec.f3460923.png",
+    "static/media/profile-example.0847a8d5.jpeg": "/static/media/profile-example.0847a8d5.jpeg",
+    "static/media/quanergy.ec5afba3.jpg": "/static/media/quanergy.ec5afba3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb461355.js",
+    "static/js/2.d6990297.chunk.js",
+    "static/css/main.3ec664e1.chunk.css",
+    "static/js/main.c32235cd.chunk.js"
+  ]
+}
